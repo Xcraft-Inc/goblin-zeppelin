@@ -10,4 +10,16 @@ module.exports = [
     message: 'List of allowed commands',
     default: [],
   },
+  {
+    type: 'input',
+    name: 'host',
+    message: 'Zeppelin host',
+    default: null,
+  },
+  {
+    type: 'input',
+    name: 'port',
+    message: 'Zeppelin port',
+    default: null,
+  },
 ];
