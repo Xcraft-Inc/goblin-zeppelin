@@ -13,7 +13,7 @@
     }
   },
   "dependencies": {
-    "goblin-laboratory": "^0.0.1",
+    "goblin-laboratory": "^1.0.0",
     "ws": "^7.2.1",
     "xcraft-core-goblin": "^4.0.1"
   },
