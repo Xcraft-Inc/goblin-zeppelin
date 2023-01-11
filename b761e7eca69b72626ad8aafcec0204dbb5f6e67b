@@ -1,0 +1,9 @@
+[
+  {
+    "Module": "goblin-zeppelin",
+    "Version": "v3.0.0",
+    "Hash": "b761e7e",
+    "Dev": "master",
+    "Prod": "3.0"
+  }
+]
